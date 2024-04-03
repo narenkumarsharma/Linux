@@ -3,5 +3,6 @@
 alias lll='ls -altr'
 
 ### List Available Timezones
-#ls /usr/share/zoneinfo/
+# ls /usr/share/zoneinfo/
+# datetimectl list-timezones
 alias chtime='timedatectl set-timezone Asia/Kolkata'
